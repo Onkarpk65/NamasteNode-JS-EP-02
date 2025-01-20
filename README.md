@@ -38,6 +38,11 @@
 
 - *ECMAScript* is a standard for scripting languages, including JS, JScript, and ActionScript. It is best know as the standard that defines Javascript.
 - *ECMAScript standards* are followed by JavaScript engines like **V8, SpiderMonkey, Chakra,** and others to ensure consistent behaviours across different environments.
+- Different browsers use different types of *JS engines* 
+- **Google** uses *V8 Engine*
+- **Firefox** uses *SpiderMonkey*
+- **Microsoft Edge** uses *Chakra**
+- **Safari** uses *JavaScript Core (WebKit)*
 
 
 
